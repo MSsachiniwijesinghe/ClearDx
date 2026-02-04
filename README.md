@@ -1,4 +1,4 @@
-# 🩺 ClearDx (PoC) — Acute Cholangitis CDSS Prototype
+# 🩺 ClearDx — Acute Cholangitis XAI based CDSS Prototype
 
 ClearDx is an interactive **Proof-of-Concept Clinical Decision Support System (CDSS)** for predicting **acute cholangitis severity** using machine learning and Explainable AI (SHAP).
 
